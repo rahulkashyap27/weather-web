@@ -1,0 +1,16 @@
+temp
+feels_like
+humidity
+min_temp
+max_temp
+wind_speed
+wind_degrees
+sunrise
+ <td><span id="temp"></span></td>
+ <td><span id="feels_like"></span></td>
+ <td><span id="humidity"></span></td>
+ <td><span id="min_temp"></span></td>
+ <td><span id="max_temp"></span></td>
+ <td><span id="wind_speed"></span></td> 
+ <td><span id="wind_degrees"></span></td>
+ <td><span id="sunrise"></span></td>            
